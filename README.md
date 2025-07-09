@@ -2,7 +2,7 @@
 This is a solution to the Age Calculator App challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 #🔗 Live Preview
-👉 View Live Site
+👉 [View Live Site](https://prince142001.github.io/Age-Calculator-by-FrontendMentor/)
 
 #🚀 Built With
 HTML5
